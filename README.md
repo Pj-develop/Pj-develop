@@ -18,4 +18,5 @@ Languages :
 
 [![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pj-develop&show_icons=true&theme=radical)](https://github.com/Pj-develop/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pj-develop&theme=onedark)](https://github.com/Pj-develop/github-profile-trophy)
 
