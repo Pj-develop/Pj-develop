@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
--- 👋 Hi, I’m Priyanshu Jha and My User Name is @Pj-devlop
+-- 👋 Hi, I’m Priyanshu Jha and My User Name is @Pj-develop
 - 👀 I’m interested in Full Stack Development, AI , ML , & IoT
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Python Integration with Apps in Vogue
